@@ -20,7 +20,7 @@ Project: Score Keeper App
 
 Project: Quiz App
 
-<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/Quiz.png" width=50% height=50% />
+<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/Quiz.png" width=25% height=25% />
 
 # Lesson 3
 Multi-Screen Apps 
