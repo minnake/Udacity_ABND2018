@@ -12,6 +12,8 @@ Learn how to transform your hand-drawn app designs into layouts using the XML ma
 
 Project: Build a Single Screen App
 
+<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/SingleScreen.png" width=25% height=25% />
+
 # Lesson 2
 User Input 
 Harness the power of Java to build a coffee-ordering app, use variables to add interactivity to your app, and learn the basics of object-oriented programming. 
