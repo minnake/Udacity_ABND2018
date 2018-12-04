@@ -30,7 +30,7 @@ Learn how to show multiple screens in a Miwok language app, and add audio and im
 Project: <a href="https://github.com/minnake/MyMusicLibrary">(v3) Musical Structure</a><br>
 Project: (v3) Tour Guide App 
 
-<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/MyMusicLibrary.png"width=25% height=25% />
+<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/MyMusicLibrary.png" width=25% height=25% />
 
 # Lesson 4
 Networking 
