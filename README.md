@@ -41,8 +41,7 @@ Project: (v3) News App, Stage 2
 
 <img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/NewsApp01.png" width=25% height=25% />
 
-<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/NewsApp02.png" width=25% height=25% />
-<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/NewsApp02b.png" width=25% height=25% />
+<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/NewsApp02.png" width=25% height=25% /> <img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/NewsApp02b.png" width=25% height=25% />
 
 # Lesson 5
 Data Storage 
