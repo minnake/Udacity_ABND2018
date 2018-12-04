@@ -27,7 +27,7 @@ Project: Quiz App
 Multi-Screen Apps 
 Learn how to show multiple screens in a Miwok language app, and add audio and images to your app. You'll also learn how Android handles touch events, and make visual changes to add polish to your fully functional app. 
 
-Project: (v3) Musical Structure<br>
+Project: <a href="https://github.com/minnake/MyMusicLibrary">(v3) Musical Structure</a><br>
 Project: (v3) Tour Guide App 
 
 # Lesson 4
