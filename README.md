@@ -50,6 +50,8 @@ Learn about the importance of data persistence when building an Android app. You
 Project: <a href="https://github.com/minnake/InventoryApp01">(v3) Inventory App, Stage 1</a><br> 
 Project: <a href="https://github.com/minnake/InventoryApp02">(v3) Inventory App, Stage 2</a>
 
+<img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/InventoryApp01.png" width=25% height=25% /> <img src="https://github.com/minnake/Udacity_ABND2018/blob/master/Screenshots/InventoryApp02.png" width=25% height=25% />
+
 -----
 
  
