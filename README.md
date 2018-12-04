@@ -1,6 +1,6 @@
 # Udacity Android Basic Nanodegree 2018
 
-This repository consists all the nine projects of Android Basic Nanodegree 2018.
+This repository consists links all the nine projects of Android Basic Nanodegree 2018.
 
 Android Basic Nanodegree program consisted five lessons and nine projects. Here you can read informatioan about the lessons and projects.
 
